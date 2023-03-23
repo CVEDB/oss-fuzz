@@ -53,6 +53,7 @@ As of February 2023, OSS-Fuzz has helped identify and fix over [8,900] vulnerabi
 [28,000]: https://bugs.chromium.org/p/oss-fuzz/issues/list?q=status%3AFixed%2CVerified%20Type%3DBug&can=1
 [850]: https://github.com/google/oss-fuzz/tree/master/projects
 
+
 ## Blog posts
 * 2016-12-01 - [Announcing OSS-Fuzz: Continuous fuzzing for open source software]
 * 2017-05-08 - [OSS-Fuzz: Five months later, and rewarding projects]
