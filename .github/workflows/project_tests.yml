@@ -83,7 +83,6 @@ jobs:
           cache: pip
           cache-dependency-path: |
             infra/ci/requirements.txt
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
